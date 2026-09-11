@@ -1,0 +1,308 @@
+body{
+	margin: 0;
+	font-family: Arial, sans-seif;
+	background-color: #eaf2ff;
+	color: #222;
+
+	}
+
+
+h1{
+	background-color: #174ea6;
+	color: white;
+	text-align: center;
+	padding: 30px;
+	margin: 0;
+}
+
+	h2{
+		color: #174ea6;
+	margin-top: 30px;
+	margin-left: 30px;
+	}
+
+li{
+	margin: 12px;
+	font-size: 17px;
+}
+
+img {
+	width: 300px;
+	display: block;
+	margin: 20px auto;
+	border-radius: 10px;
+	}
+
+	
+	img {
+		transition: 0.3s;
+	}
+
+img:hover {
+	transform: scale(1.05);
+
+}
+
+	img {
+		width: 200px;
+		display: block:
+		margin: 20px auto;
+		border-radius: 10px;
+		transition: 0.3s;
+	}
+
+
+img {
+
+		transition: 0.3s;
+	}
+		img:hover {
+				transform: scale(1.05);
+		}
+
+	img {
+		width: 200px;
+		display: block:
+		margin: 20px auto;
+		border-radius: 10px;
+		transition: 0.3s;
+	}
+
+
+img {
+
+		transition: 0.3s;
+	}
+		img:hover {
+				transform: scale(1.05);
+		}
+
+	
+
+img {
+		width: 200px;
+		display: block:
+		margin: 20px auto;
+		border-radius: 10px;
+		transition: 0.3s;
+	}
+
+
+img {
+
+		transition: 0.3s;
+	}
+		img:hover {
+				transform: scale(1.05);
+		}
+
+	
+
+
+img {
+		width: 150px;
+		display: block:
+		margin: 20px auto;
+		border-radius: 10px;
+		transition: 0.3s;
+	}
+
+
+img {
+
+		transition: 0.3s;
+	}
+		img:hover {
+				transform: scale(1.05);
+		}
+
+.person {
+    width: 300px;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.person:hover {
+    transform: scale(1.05);
+}
+
+.person p {
+    margin: 0 0 10px;
+    text-align: center;
+}
+
+.person img {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+.person h3 {
+    margin-top: 10px;
+}
+	.computer-section {
+		transition: 0.3s;
+	}
+
+		.computer-section:hover {
+			transform: scale(1.02);
+	}
+
+.benefit-card {
+    background-color: white;
+    width: 250px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px gray;
+    transition: 0.3s;
+}
+
+
+.benefit-card:hover {
+
+transform: translateY(-8px);
+
+	}
+
+.benefit-card h3 {
+	color: #174ea6;
+	margin-top: 0;
+}
+
+	.header {
+		background-color: #174ea6;
+		color: white;
+		text-align: center;
+		padding: 25px;
+		box-shadow: 0 4px 10px gray;
+	}
+
+#benefits {
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+	flex-wrap: wrap;
+			}
+
+
+
+.header h1 {
+	margin: 0;
+	font-size: 32px;
+}
+
+.header p {
+	margin: 8px 0 0;
+	font-size: 18px;
+}
+
+.founders {
+	display: flex;
+	justify-content: space-around;
+	gap: 30px;
+	flex-wrap: wrap;
+
+	}
+
+h4, h5 {
+	text-align: left;
+	margin-left: 30px;
+	margin-bottom: 8px;
+}
+	.answer-card {
+		margin: 5px 30px 20px 30px;
+		padding: 15px;
+		width: 500px;
+		transition: 0.3s;
+	}
+		.answer-card:hover {
+			transform: translateY(-8px) scale(1.02);
+}
+
+h4, h5 {
+	text-align: left;
+	margin: 20px 30px 5px 30px;
+	padding: 0;
+}
+	.answer-card {
+		width: 500px;
+		margin: 0 30px 20px 30px;
+		padding: 15px;
+		border-radius: 15px;
+		box-shadow: 0 4px 10px gray;
+	}
+
+#more-info {
+	display: none;
+	width: 500px;
+	margin: 15px auto;
+	padding: 20px;
+	background-color: white;
+	border-radius: 15px;
+	box-shadow: 0 4px 10px gray;
+}
+
+	#more-info h3 {
+		color: #174ea6;
+}
+
+	
+	button {
+    background-color: #174ea6;
+
+
+
+    color: white;
+    border: none;
+    padding: 12px 22px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px 30px;
+    transition: 0.3s;
+}
+
+button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 10px gray;
+}
+
+	.computer-section {
+    background-color: white;
+    width: 85%;
+    margin: 30px auto;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px gray;
+}
+
+	.header {
+    background-color: #174ea6;
+    padding: 10px 20px 20px;
+    box-shadow: 0 4px 10px gray;
+}
+
+.header img {
+    width: 100%;
+    max-width: 1400px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.header {
+    background-color: transparent;
+    padding: 10px 20px 20px;
+    box-shadow: none;
+}
+
+.header img {
+    width: 95%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}	
+
+
